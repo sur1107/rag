@@ -12,4 +12,5 @@ langchain-groq
 PyPDF
 langchain-ollama
 ollama
-sqlite3
+chromadb==0.5.15
+SQLAlchemy==2.0.36
