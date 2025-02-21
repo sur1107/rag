@@ -12,3 +12,4 @@ langchain-groq
 PyPDF
 langchain-ollama
 ollama
+sqlite3
