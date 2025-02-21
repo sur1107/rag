@@ -14,4 +14,4 @@ langchain-ollama
 ollama
 pysqlite3-binary
 chroma-hnswlib==0.7.6
-chromadb==0.5.15
+chromadb==0.6.3
